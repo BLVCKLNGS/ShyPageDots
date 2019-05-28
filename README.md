@@ -1,9 +1,13 @@
-ShyPageDots
+ShyPageDots (2)
 ===========
 Page dots will hide themselves when not in use. They will appear when you start scrolling. When you are done, they will go back into hiding.
 
 Changelog
 =========
+v0.2
+- Updated for A12 Devices
+- Improved memory management
+
 v0.1.1
 - updated for iOS9
 
