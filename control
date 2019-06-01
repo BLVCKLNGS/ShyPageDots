@@ -1,5 +1,5 @@
-Package: com.twickd.shypagedots2
-Name: Shy Page Dots 2
+Package: com.twickd.spdxs
+Name: Shy Page Dots XS
 Depends: mobilesubstrate
 Version: 0.2
 Architecture: iphoneos-arm
@@ -7,3 +7,5 @@ Description: Hide page dots when not scrolling
 Maintainer: Hugo
 Author: ryst
 Section: Tweaks
+Tag: compatible_min::ios11.1, compatible_max::ios12.1.2
+
